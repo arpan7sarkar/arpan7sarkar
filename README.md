@@ -11,7 +11,7 @@
 
 - 👯 I’m looking to collaborate on **Frontend Development**
 
-- 🤝 I’m looking for help with **Bracken Development**
+- 🤝 I’m looking for help with **Backend Development**
 
 - 💬 Ask me about **JS,Python,Java,c**
 
