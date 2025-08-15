@@ -5,8 +5,9 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=arpan7sarkar" alt="arpan7sarkar" /></a> </p>
 
-<p align="left"> <a href="https://twitter.com/arpan7sarkar" target="blank"><img src="https://img.shields.io/twitter/follow/arpan7sarkar?logo=twitter&style=for-the-badge" alt="arpan7sarkar" /></a> </p>
-<p align="center"> <a href="https://www.linkedin.com/in/arpan7sarkar" target="blank"><img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Flogosmarcas.net%2Fwp-content%2Fuploads%2F2020%2F03%2FLinkedIn-Emblema.png&f=1&nofb=1&ipt=42589208a92e87ecb5e12c855ae963a6ea771be2d362648b65a7ba6ca645526e" alt="arpan7sarkar" /></a> </p>
+<span align="left"> <a href="https://twitter.com/arpan7sarkar" target="blank"><img src="https://img.shields.io/twitter/follow/arpan7sarkar?logo=twitter&style=for-the-badge" alt="arpan7sarkar" /></a> </span>
+<span align="left"> <a href="https://www.linkedin.com/in/arpan7sarkar" target="blank"><img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Flogosmarcas.net%2Fwp-content%2Fuploads%2F2020%2F03%2FLinkedIn-Emblema.png&f=1&nofb=1&ipt=42589208a92e87ecb5e12c855ae963a6ea771be2d362648b65a7ba6ca645526e" width="60" height="60" alt="LinkedIn Logo">
+</a> </span>
 
 - 🌱 I’m currently learning **React,JAVA,Tailwind**
 
