@@ -2,26 +2,31 @@
 <!-- Title Section -->
 <img src="car.gif" alt="Banner" width="100%" style="max-width: 900px; height: auto; border-radius: 12px;" />
 
-<h1 align="center">Hi 👋, I'm Arpan Sarkar</h1>
-<h3 align="center">A passionate Full stack MERN developer and tech enthusiast from India </h3>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&duration=1000&pause=500&color=15F01B9E&background=72875100&center=true&vCenter=true&multiline=true&width=900&height=300&lines=Welcome+Devs%2C;Hey+%F0%9F%91%8B+I'm+Arpan+Sarkar+;-+A+Full+Stack+Web+Developer+and+GenAI+Enthusiast.;-Second+Year+Student;-Pursuing+B.Tech+CSE(AI%2FML);-Exploring+MERN+learning%2C+Generative+AI+%26+Next+Js;-Always+questioning%2C+analyzing%2C+and+learning+about+tech.;-On+a+mission+to+turn+become+phenomenal+coder" alt="Typing SVG" /></a>
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=arpan7sarkar&label=Profile%20views&color=0e75b6&style=flat" alt="arpan7sarkar" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=arpan7sarkar" alt="arpan7sarkar" /></a> </p>
+
 
 <span align="left"> <a href="https://twitter.com/arpan7sarkar" target="blank"><img src="https://img.shields.io/twitter/follow/arpan7sarkar?logo=twitter&style=for-the-badge" alt="arpan7sarkar" /></a> </span>
 <span align="left"> <a href="https://www.linkedin.com/in/arpan7sarkar" target="blank"><img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Flogosmarcas.net%2Fwp-content%2Fuploads%2F2020%2F03%2FLinkedIn-Emblema.png&f=1&nofb=1&ipt=42589208a92e87ecb5e12c855ae963a6ea771be2d362648b65a7ba6ca645526e" width="60" height="60" alt="LinkedIn Logo">
 </a> </span>
 
-- 🌱 I’m currently learning **React,JAVA,Tailwind**
 
-- 👯 I’m looking to collaborate on **Frontend Development**
 
-- 🤝 I’m looking for help with **Backend Development**
 
-- 💬 Ask me about **JS,Python,Java,c**
+<table align="center" width="100%" style="max-width: 900px; margin: auto;">
+  <tr>
+    <td width="50%" align="center">
+      <img src="dev.gif" width="100%" style="max-width: 500px;" alt="Coding Dev" />
+    </td>
+    <td width="60%" align="center">
+      <img src="https://leetcode-badge-showcase.vercel.app/api?username=arpan7sarkar&theme=dark&animated=true" width="100%" style="max-width: 420px;" alt="LeetCode Showcase" />
+    </td>
+  </tr>
+</table>
 
-- 📫 How to reach me **contact.arpan.sarkar@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -37,5 +42,5 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=arpan7sarkar&show_icons=true&locale=en&layout=compact" alt="arpan7sarkar" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=arpan7sarkar&show_icons=true&locale=en" alt="arpan7sarkar" /></p>
-
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=arpan7sarkar" alt="arpan7sarkar" /></a> </p>
 
