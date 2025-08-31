@@ -7,15 +7,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=arpan7sarkar&label=Profile%20views&color=0e75b6&style=flat" alt="arpan7sarkar" /> </p>
 
-
-
-<span align="left"> <a href="https://twitter.com/arpan7sarkar" target="blank"><img src="https://img.shields.io/twitter/follow/arpan7sarkar?logo=twitter&style=for-the-badge" alt="arpan7sarkar" /></a> </span>
-<span align="left"> <a href="https://www.linkedin.com/in/arpan7sarkar" target="blank"><img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Flogosmarcas.net%2Fwp-content%2Fuploads%2F2020%2F03%2FLinkedIn-Emblema.png&f=1&nofb=1&ipt=42589208a92e87ecb5e12c855ae963a6ea771be2d362648b65a7ba6ca645526e" width="60" height="60" alt="LinkedIn Logo">
-</a> </span>
-
-
-
-
+<h3 align="left">Comfort:</h3>
 <table align="center" width="100%" style="max-width: 900px; margin: auto;">
   <tr>
     <td width="50%" align="center">
@@ -145,6 +137,8 @@
   <img src="https://streak-stats.demolab.com?user=arpan7sarkar&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
   <img src="https://github-profile-trophy.vercel.app?username=arpan7sarkar&theme=dracula&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false&order=4" height="150" alt="trophy graph"  />
 </div>
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=arpan7sarkar&label=Profile%20views&color=0e75b6&style=flat" alt="arpan7sarkar" /> </p>
 
 
 
