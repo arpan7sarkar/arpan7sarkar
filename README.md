@@ -4,9 +4,6 @@
 
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&duration=1000&pause=500&color=15F01B9E&background=72875100&center=true&vCenter=true&multiline=true&width=900&height=300&lines=Welcome+Devs%2C;Hey+%F0%9F%91%8B+I'm+Arpan+Sarkar+;-+A+Full+Stack+Web+Developer+and+GenAI+Enthusiast.;-Second+Year+Student;-Pursuing+B.Tech+CSE(AI%2FML);-Exploring+MERN+learning%2C+Generative+AI+%26+Next+Js;-Always+questioning%2C+analyzing%2C+and+learning+about+tech.;-On+a+mission+to+turn+become+phenomenal+coder" alt="Typing SVG" /></a>
 
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=arpan7sarkar&label=Profile%20views&color=0e75b6&style=flat" alt="arpan7sarkar" /> </p>
-
 <h3 align="left">Comfort:</h3>
 <table align="center" width="100%" style="max-width: 900px; margin: auto;">
   <tr>
