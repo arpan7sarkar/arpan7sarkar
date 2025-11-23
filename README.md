@@ -191,7 +191,8 @@ const developer = {
 ## 📊 GitHub Performance Metrics
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=arpan7sarkar&show_icons=true&theme=react&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&text_color=C9D1D9"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=arpan7sarkar&show_icons=true&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&text_color=C9D1D9">
+  
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=arpan7sarkar&layout=compact&langs_count=8&theme=react&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9"/>
 </div>
 
