@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:667eea,100:764ba2&height=250&section=header&text=Hi%20,%20I'm%20Arpan%20👋&fontSize=70&fontAlignY=38&animation=fadeIn&fontColor=ffffff" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:black,100:grey&height=250&section=header&text=Hi%20,%20I'm%20Arpan%20👋&fontSize=70&fontAlignY=38&animation=fadeIn&fontColor=ffffff" />
 </div>
 
 <h1 align="center">Full Stack Developer | Gen AI Enthusiast | Open Source Contributor</h1>
@@ -366,7 +366,7 @@ If you find my projects helpful, consider:
 ---
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:667eea,100:764ba2&height=120&section=footer" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:black,100:grey&height=120&section=footer" />
 </div>
 
 <div align="center">
