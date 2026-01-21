@@ -285,8 +285,7 @@ const developer = {
 
 <div align="center">
 
-**📧 Email:** contact.arpan.sarkar@gmail.com  
-**📱 Phone:** +91 8637897186  
+**📧 Email:** contact.arpan.sarkar@gmail.com   
 **📍 Location:** Barasat, West Bengal, India  
 **💼 Status:** Available for Summer 2025 Internships
 
