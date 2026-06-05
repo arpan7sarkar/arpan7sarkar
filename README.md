@@ -96,14 +96,8 @@ CGPA: **9.66/10**
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=arpan7sarkar&show_icons=true&theme=tokyonight&hide_border=true)
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=arpan7sarkar&theme=tokyonight&hide_border=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=arpan7sarkar&layout=compact&theme=tokyonight&hide_border=true)
-
+[GitHub Stats](https://github-readme-stats.vercel.app/api?username=arpan7sarkar&show_icons=true&theme=tokyonight&hide_border=true)
 ![GitHub Trophy](https://github-profile-trophy.vercel.app/?username=arpan7sarkar&theme=tokyonight&no-frame=true&row=1&column=6)
-
 ![Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=arpan7sarkar&theme=tokyo-night&hide_border=true)
 
 </div>
