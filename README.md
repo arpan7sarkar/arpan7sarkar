@@ -148,11 +148,13 @@ const arpan = {
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=arpan7sarkar&show_icons=true&theme=tokyonight&hide_border=true)
+<div align="center">
+<a href="https://awesome-github-stats.azurewebsites.net/index.html??cardType=level-alternate&theme=github-dark&fontFamily=42dot%20Sans&preferLogin=false">
+<img align="center" alt="arpan7sarkar's GitHub Stats" src="https://awesome-github-stats.azurewebsites.net/user-stats/arpan7sarkar?cardType=level-alternate&theme=github-dark&fontFamily=42dot%20Sans&preferLogin=false" />
+</a>
+</div>
+<br/>
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=arpan7sarkar&layout=compact&theme=tokyonight&hide_border=true)
-
-![GitHub Trophy](https://github-profile-trophy.vercel.app/?username=arpan7sarkar&theme=tokyonight&no-frame=true&row=1&column=6)
 
 ![Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=arpan7sarkar&theme=tokyo-night&hide_border=true)
 
