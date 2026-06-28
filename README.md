@@ -171,5 +171,7 @@ const arpan = {
 [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://arpansarkar.vercel.app)
 [![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/arpan7sarkar)
 [![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:contact.arpan.sarkar@gmail.com)
-
+<div style="display: flex; justify-content: center; align-items: center;">
+  <img src="https://komarev.com/ghpvc/?username=arpan7sarkar" alt="Profile Views" />
+</div>
 </div>
