@@ -32,11 +32,11 @@ Currently shipping  at Teskor AI, alongside freelance work and open-source contr
 
 ### Tech Stack
 
-**Languages:** TypeScript · JavaScript · Python · Go · Java
-**Frontend:** Next.js · React · Tailwind CSS · Framer Motion
-**Backend:** Node.js · NestJS · Express.js · REST APIs · WebSockets · BullMQ
-**Databases:** PostgreSQL · MySQL · MongoDB · Redis · Pinecone · Prisma
-**AI/ML:** RAG · LangChain · LangGraph · MCP · OpenAI API · Gemini API
+**Languages:** TypeScript · JavaScript · Python · Go · Java <br>
+**Frontend:** Next.js · React · Tailwind CSS · Framer Motion <br>
+**Backend:** Node.js · NestJS · Express.js · REST APIs · WebSockets · BullMQ <br>
+**Databases:** PostgreSQL · MySQL · MongoDB · Redis · Pinecone · Prisma <br>
+**AI/ML:** RAG · LangChain · LangGraph · MCP · OpenAI API · Gemini API <br>
 **Cloud/DevOps:** AWS · Docker · Kubernetes · CI/CD
 
 <div align="center">
