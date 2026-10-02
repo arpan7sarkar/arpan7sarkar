@@ -2,7 +2,7 @@
 
 ### Software Engineer @ Teksor AI (Remote, Malaysia) · 19 y/o · B.Tech CSE (AI & ML), CGPA 9.57
 
-[Portfolio](https://arpansarkar.tech) · [GitHub](https://github.com/arpan7sarkar) · [LinkedIn](https://linkedin.com/in/arpan7sarkar) · [X](https://x.com/arpan7sarkar) · [Email](mailto:contact.arpan.sarkar@gmail.com)
+[Portfolio](https://www.arpansarkar.tech) · [GitHub](https://github.com/arpan7sarkar) · [LinkedIn](https://linkedin.com/in/arpan7sarkar) · [X](https://x.com/arpan7sarkar) · [Email](mailto:contact.arpan.sarkar@gmail.com)
 
 </div>
 <div align="center">
